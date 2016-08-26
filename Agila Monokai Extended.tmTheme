@@ -41,7 +41,7 @@
         <key>bracketsOptions</key>
         <string>underline</string>
         <key>caret</key>
-        <string>#f8f8f0</string>
+        <string>#ff0000</string>
         <key>findHighlight</key>
         <string>#ffe792</string>
         <key>findHighlightForeground</key>
