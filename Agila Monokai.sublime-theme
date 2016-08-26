@@ -217,12 +217,11 @@
         "content_margin": [8, 0]
     },
 
-
 //------------------------------------------------------------------------------
 // TABS - CLOSE / HIGHLIGHT / STATE BUTTONS
 //------------------------------------------------------------------------------
     // Tab close button
-    {
+ /*   {
         "class": "tab_close_button",
         "content_margin": [8, 8],
         "layer0.texture": "Agila Theme/assets/tab-close.png",
@@ -296,7 +295,7 @@
                 "layer0.tint": [243, 103, 129] //pink theme
             },
 
-    // Tab highlight button
+   // Tab highlight button
     {
         "class": "tab_close_button",
         "settings": ["highlight_modified_tabs"],
@@ -312,7 +311,7 @@
         "attributes": ["hover"],
         "layer0.tint": [243, 103, 129], //tab active state hover on close button
         "layer0.opacity": 1.0
-    },
+    }, */
 
 
 //------------------------------------------------------------------------------
@@ -943,7 +942,7 @@
 // SIDEBAR - OPEN FILE ICONS
 //------------------------------------------------------------------------------
     // Sidebar file close
-    {
+/*    {
         "class": "close_button",
         "layer0.texture": "Agila Theme/assets/file-close.png",
         "layer0.tint": [73, 73, 73], //sidebar file close color
@@ -975,7 +974,7 @@
         "attributes": ["hover"],
         "layer0.texture": "Agila Theme/assets/file-close.png",
         "layer0.tint": [243, 103, 129] //sidebar file close button tint
-    },
+    }, */
 
 
 //------------------------------------------------------------------------------
